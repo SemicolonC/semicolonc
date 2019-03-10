@@ -370,26 +370,26 @@ html .ebox ul.AtabNav li.active {
         @-webkit-keyframes "loops" {  /*动画名称和上面设置的动画名称一样*/
             /*下面是动画过程*/
             0% {
-                background: url(pics/01.png) no-repeat;
+                background: url(pics/01.jpg) no-repeat;
             }
 
             20% {
-                background: url(pics/02.png) no-repeat;
+                background: url(pics/02.jpg) no-repeat;
             }
 
             40% {
-                background: url(pics/03.png) no-repeat;
+                background: url(pics/03.jpg) no-repeat;
             }
 
             60% {
-                background: url(pics/04.png) no-repeat;
+                background: url(pics/04.jpg) no-repeat;
             }
 
             80% {
-                background: url(pics/05.png) no-repeat;
+                background: url(pics/05.jpg) no-repeat;
             }
             
             100% {
-                background: url(pics/01.png) no-repeat;
+                background: url(pics/01.jpg) no-repeat;
             }
         }
